@@ -1,3 +1,9 @@
+Run the Project using npm start.
+
+Dependencies: axios,history,react-router,react-router-dom.
+
+(npm i react-router history react-router-dom --save)    
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
