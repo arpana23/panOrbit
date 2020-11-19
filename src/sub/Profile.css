@@ -1,0 +1,57 @@
+.title {
+    font-size: 1.7em;
+    font-weight: 500;
+}
+
+.flex-container-f {
+    border-bottom: 1px solid #a19fa5;
+    padding: 20px;
+}
+
+.pro-pic-b {
+    margin-top: 20px;
+    width: 20%;
+    height: 30vh;
+}
+
+.div-text {
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 2em;
+    color: #5b5555;
+}
+
+b {
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 1.4em;
+    color: #5b5555;  
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-right: 1px solid #a19fa5;
+
+}
+
+.t-common {
+    margin-top: 30px;
+    line-height: 7vh;
+    color: #a19fa5;
+    font-size: 1.6em;
+
+}
+
+.flex-container-s {
+    display: flex;
+    flex-direction: row;
+
+}
+
+iframe {
+    margin-top: 25px;
+    border-radius: 25px;
+    width: 100%;
+}

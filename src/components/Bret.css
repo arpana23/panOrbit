@@ -1,0 +1,51 @@
+.b-nav {
+    width: 80%;
+    height: 90vh;
+    background-color: blue;
+    margin: 0 auto;
+    border-radius: 25px 25px 25px 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    color: white;
+    padding: 40px;
+}
+
+.p1 {
+    color: #3d3f42;
+    font-size: 1.2em;
+    background-color: transparent;
+    border-bottom: 1px solid lightblue;
+    padding: 12px;
+}
+
+.p1:hover {
+    
+    background-color: transparent !important;
+    border-bottom: 1px solid lightblue;
+}
+
+.common {
+    color: lightblue;
+    font-size: 1.2em;
+    background-color: transparent;
+    border-bottom: 1px solid lightblue;
+    padding: 12px;
+}
+
+.common:hover {
+    color: darkblue;
+    background-color: transparent !important;
+}
+
+.common.active {
+    color: white;
+    background-color: transparent !important;
+}
+.active:hover {
+    color:lightblue;
+    background-color: transparent !important;
+}
+
+

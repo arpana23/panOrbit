@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1936.356" height="769.788" viewBox="0 0 1936.356 769.788">
+  <defs>
+    <filter id="Path_1" x="0" y="0" width="1936.356" height="769.788" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#8999db" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_1)">
+    <path id="Path_1-2" data-name="Path 1" d="M0,426.483c21.884,22.507-11.416-29.764,0,0,27.486,71.664,86.994,135.8,137.917,148.527s150.648-21.218,150.648-16.974c199.45-63.654,369.195-44.558,369.195-44.558s552.48,197.668,569.068,206.157c60.432,30.926,118.4,48.46,213.879,42.095S1589.366,733.8,1589.366,733.8s75.408-27.771,110.212-39.672C1815.589,654.458,1905.5,589.283,1905.5,589.283h17.4V-5.8H0" transform="translate(2.96 6.3)" fill="rgba(67,74,242,0.97)" stroke="#301af3" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="1959.839" height="370.509" viewBox="0 0 1959.839 370.509">
+  <path id="Path_2" data-name="Path 2" d="M-12.731,445.58S5.34,477,20.992,507.172c19.713,38,56.072,84.179,119.047,96.893,112.456,22.7,185.658-45.977,309.784-61.3s90.177-12.487,188.841,0c55.055,6.968,66.671,4.569,92.156,10.716,19.724,4.757,48.245,14.9,113.66,39.234,148,55.059,244.008,85.455,388.291,162.65,17.244,8.3,6.6,10.885,53.81,22.555a523.744,523.744,0,0,0,137.153,15.638c45.744-.64,169.745-38.193,169.745-38.193l214.3-84.872s92.3-37.72,118.821-53.045" transform="translate(25.734 -438.101)" fill="none" stroke="#d2cdf5" stroke-width="30"/>
+</svg> -->
